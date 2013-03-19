@@ -10,7 +10,7 @@ namespace MvcApplication2.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "修改此模板以快速启动你的 ASP.NET MVC 应用程序。";
+            ViewBag.Message = "修改此模板以快速启动你的 ASP.NET MVC 应用程序。啦啦啦啦啦啦";
 
             return View();
         }
